@@ -1,2 +1,1 @@
-# alx-interview
-Alx Interview projects 
+# Interview Algorithm Questions
